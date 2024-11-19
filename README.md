@@ -1,4 +1,4 @@
-# Food Delivery App (Frontend)
+# Food Delivery App
 
 Welcome to the frontend of the Food Delivery App! This app allows users to browse local restaurants, place orders, and track deliveries. It communicates with a backend API to handle all data interactions, including ordering and user authentication.
 
