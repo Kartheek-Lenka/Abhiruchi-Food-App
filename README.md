@@ -29,7 +29,7 @@ https://abhiruchi-food-app.netlify.app/
 
 ## Screenshot
 
-![Home Page](assets/WebPage.png)
+![Home Page](Src/assets/WebPage.png)
 
 ## Installation
 
