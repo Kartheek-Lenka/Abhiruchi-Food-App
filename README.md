@@ -26,7 +26,11 @@ https://abhiruchi-food-app.netlify.app/
 - **API Communication**: Axios / Fetch API
 - **Authentication**: JWT (through backend)
 - **Push Notifications**: Firebase Cloud Messaging (optional)
-  
+
+## Screenshot
+
+![Home Page](assets/WebPage.png)
+
 ## Installation
 
 ### Prerequisites
